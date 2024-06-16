@@ -1,6 +1,6 @@
 "use strict";
 // first way to declare for loop
-// chat gpt 
+
 // for (let i = 10; i > 0; i--) {
 //     console.log(i);
 // }
